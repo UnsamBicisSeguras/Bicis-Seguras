@@ -20,7 +20,7 @@ Además es necesario instalar el board Heltec ESP32 Series Dev-boards. Para más
 
 *Proyecto Final*
 
-En este branch se encontraran los archivos candado_v8_proyecto_final y transceptor_v8_proyecto_final. Estos archvios contienen el código utilizado para programar las placas Heltec WiFi LoRa 32 V3. Para visualizarlos y correrlos es necesario tener instalado el Arduino IDE junto con las librerías mencionadas a anteriormente sumado a este: 
+En este branch se encontraran los archivos que permiten programar las placas Heltec WiFi LoRa 32 V3 para funcionar como candado y transceptor. Para visualizarlos y correrlos es necesario tener instalado el Arduino IDE junto con las librerías mencionadas a anteriormente sumado a este: 
 
   - ESP32 Servo, by Kevin Harrington y John K. Bennett.
 
