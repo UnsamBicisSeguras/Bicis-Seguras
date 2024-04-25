@@ -10,7 +10,7 @@
 #include "LoRaWan_APP.h"
 #include "WiFi.h" // Librería utilizada para la conexión WiFi
 #include <FirebaseESP32.h> //Librería utilizada para la conexión entre la placa de desarrollo Heltec y Firebase
-#include "addons/TokenHelper.h" //Librería auxiliar de FirebaseESP32. Permite autenticarse y conectarse a Firebase utilizando la autenciación po Email y Password. 
+#include "addons/TokenHelper.h" //Librería auxiliar de FirebaseESP32. Permite autenticarse y conectarse a Firebase utilizando la autenciación por Email y Password. 
 
 //Configuración de los parámetros LoRa
 #define RF_FREQUENCY                                915000000 // Hz
